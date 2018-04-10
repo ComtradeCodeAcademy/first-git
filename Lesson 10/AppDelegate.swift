@@ -19,6 +19,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
         print("my local change")
+        print("ehey, here i am")
 
         return true
     }
